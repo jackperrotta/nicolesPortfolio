@@ -16,19 +16,19 @@ body, html {
 
 /* First image (Logo. Full height) */
 .bgimg-1 {
-    background-image: url('../images/nicoleNjack.jpg');
+    background-image: url('../images/philly.jpg');
     min-height: 100%;
 }
 
 /* Second image (Portfolio) */
 .bgimg-2 {
-    background-image: url("../images/nicoleProf1.jpg");
+    background-image: url("../images/nicoleProf.jpg");
     min-height: 400px;
 }
 
 /* Third image (Contact) */
 .bgimg-3 {
-    background-image: url("../images/nicoleProf1.jpg");
+    background-image: url("../images/nicoleNJack.jpg");
     min-height: 400px;
 }
 
